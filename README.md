@@ -21,6 +21,12 @@ npm i
 
 ## 測試
 
+1. 執行 App
+```
+npm start
+```
+
+2. 待 App 啟動成功，則可開新終端機執行下列指令
 ```
 testcafe chrome App.e2e.js
 ```
