@@ -30,3 +30,6 @@ testcafe chrome App.e2e.js
 ```
 npm start
 ```
+
+## 相關文件
+* [TestCafe](https://devexpress.github.io/testcafe/documentation/getting-started/)
